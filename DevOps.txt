@@ -47,5 +47,6 @@ Cycle continues: Feedback from users – back to plan.
 GitHub Basics:
 What is Git & GitHub?
 •	Git: Version Control System (local)
-•	GitHub: Online platform to store Git projects
+•	GitHub: Online platform to store Git project
+
 
